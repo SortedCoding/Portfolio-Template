@@ -12,7 +12,7 @@ click on the link to see :- ([Open in Youtube](https://youtu.be/BtyURSWKxgM))
 ![screenshot](Home.png)
 
 # About Page
-![screenshot](about.png)
+![screenshot](About.png)
 
 # Education Page
 ![screenshot](Education.png)
